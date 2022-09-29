@@ -1,4 +1,14 @@
-[{
+[
+  {
     "front": "ciao",
     "back": "hello"
-}]
+  },
+  {
+    "front": "cane",
+    "back": "dog"
+  },
+  {
+    "front": "gatto",
+    "back": "cat"
+  }
+]
